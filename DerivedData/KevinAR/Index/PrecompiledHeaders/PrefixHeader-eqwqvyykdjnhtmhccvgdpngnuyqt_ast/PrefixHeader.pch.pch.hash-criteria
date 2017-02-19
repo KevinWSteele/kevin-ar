@@ -1,0 +1,31 @@
+-x
+objective-c
+-arch
+arm64
+-fretain-comments-from-system-headers
+-gmodules
+-fpascal-strings
+-Os
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk
+-miphoneos-version-min=7.0
+-g
+-fvisibility=hidden
+-iquote
+-iquote
+-I/Users/kevinsteele/Documents/iOS Labs/KevinAR/Build/Products/Release-iphoneos/include
+-I/Users/kevinsteele/Documents/iOS Labs/KevinAR/include
+-Iinclude/ios7
+-I/usr/local/include/eigen3
+-Iinclude
+-F/Users/kevinsteele/Documents/iOS Labs/KevinAR/Build/Products/Release-iphoneos
+-F/Users/kevinsteele/Documents/iOS Labs/KevinAR
+-ferror-limit=10
+-working-directory=/Users/kevinsteele/Documents/iOS Labs/KevinAR
+-Xclang
+-detailed-preprocessing-record
+-fno-objc-arc
+aarch64-apple-darwin15.6.0
+"4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)"
+SDK_PRODUCT_BUILD_VERSION=14C89
+14C89
