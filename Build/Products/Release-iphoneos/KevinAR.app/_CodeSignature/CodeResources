@@ -143,6 +143,18 @@
 		<data>
 		OvTcMp0BUTsXEJ2hrf0+Qq1GnTc=
 		</data>
+		<key>Data2/OSG/.mayaSwatches/star_diffuse.png_hcm.swatch</key>
+		<data>
+		RTYkxo3mEtUYso70BVPAjLE7Shs=
+		</data>
+		<key>Data2/OSG/.mayaSwatches/yellowStar.jpg_hcm.swatch</key>
+		<data>
+		FjJQXnO9T6slh7Y+LYJmEaV5vw8=
+		</data>
+		<key>Data2/OSG/14199.jpg</key>
+		<data>
+		pU4ZmkqeNuCSz51mW7cINOlxddc=
+		</data>
 		<key>Data2/OSG/Images/fireparticle8x8.png</key>
 		<data>
 		BpclAWwj5mIoWeT+cwU6LaMn81M=
@@ -171,6 +183,10 @@
 		<data>
 		exo59L58dFtl1iY0JO6h0xKOxjA=
 		</data>
+		<key>Data2/OSG/Images/water.rgb</key>
+		<data>
+		jexmM/VKxjKyMbzOlUOYTFUar/c=
+		</data>
 		<key>Data2/OSG/TexturesCom_MetalBare0104_1_M.jpg</key>
 		<data>
 		A8RpIuG3B0b8A6poqGYr2vPFKSU=
@@ -182,10 +198,6 @@
 		<key>Data2/OSG/cessnafire.osg</key>
 		<data>
 		lY+1rz5tesg6xUom/EFJKOnFZWA=
-		</data>
-		<key>Data2/OSG/cow.osg</key>
-		<data>
-		Wm4m9jMeFRIPgPCzPJGaaZK6c3Y=
 		</data>
 		<key>Data2/OSG/dragon.mtl</key>
 		<data>
@@ -199,9 +211,61 @@
 		<data>
 		V4slGwbLkQaRKdb9M0CXZrKUNb0=
 		</data>
+		<key>Data2/OSG/eye-texture.jpg</key>
+		<data>
+		kRqrBdT5T8EZ2Jkn8NUYMZz7K9I=
+		</data>
+		<key>Data2/OSG/eyeBall.fbx</key>
+		<data>
+		/rKchUbBvpjdgMXQHVHcip9+vu8=
+		</data>
+		<key>Data2/OSG/eyeBall.osg</key>
+		<data>
+		Jw1I/OTl/564PjCACiIFkyZl/5w=
+		</data>
+		<key>Data2/OSG/eyeGreen.obj</key>
+		<data>
+		TyMrjokD1b46FyS7322Fxl9A0dU=
+		</data>
+		<key>Data2/OSG/eyeUP1.mtl</key>
+		<data>
+		j6QmPYehue1HyzPAqoWya/Ctvjg=
+		</data>
+		<key>Data2/OSG/eyeUP1.obj</key>
+		<data>
+		w/ZyAOBkBrylqA2Ui2hsPEZTFkM=
+		</data>
+		<key>Data2/OSG/eyeUp.mtl</key>
+		<data>
+		j6QmPYehue1HyzPAqoWya/Ctvjg=
+		</data>
+		<key>Data2/OSG/eyeUp.obj</key>
+		<data>
+		hMb5kTxXPFF/clhQxRChpvG5oHw=
+		</data>
+		<key>Data2/OSG/eyeUp.osg</key>
+		<data>
+		eQLcc0JCiqkf7vel2C1v0lZbpgQ=
+		</data>
+		<key>Data2/OSG/eyeUp1.osg</key>
+		<data>
+		ZXTSvaSiFBOI4und8/pLUN8ufx8=
+		</data>
 		<key>Data2/OSG/fire.osg</key>
 		<data>
 		ra2UiFA5nqmMIpmiD5n8jpnpqIs=
+		</data>
+		<key>Data2/OSG/myShield.mtl</key>
+		<data>
+		8uhRJvDsOqln/k4CnmjnIMqZj2Y=
+		</data>
+		<key>Data2/OSG/myShield.obj</key>
+		<data>
+		AeB9I8LIXlALRQqLWY3LgTjPDVc=
+		</data>
+		<key>Data2/OSG/myShield.osg</key>
+		<data>
+		tqc9sRmDbHPUIOZ3Wq8RxOygLho=
 		</data>
 		<key>Data2/OSG/p51d-jw-animated.osg</key>
 		<data>
@@ -211,17 +275,69 @@
 		<data>
 		brifqIAdy9hT3H4E81XTAIDAIr8=
 		</data>
-		<key>Data2/OSG/shield.obj</key>
+		<key>Data2/OSG/shield.osg</key>
 		<data>
-		mQOL68zbcxp/ybMjTIeOWJYIH3Y=
+		TNSYcxdW9L+KRwwDGapaJQ3KTPc=
 		</data>
 		<key>Data2/OSG/spyro.osg</key>
 		<data>
 		SJ6UUeKiYNy29x5fgUkiwZ3GpOE=
 		</data>
+		<key>Data2/OSG/star.mtl</key>
+		<data>
+		5XKqrkrmMJMF1LdXKed9f6VZH6A=
+		</data>
+		<key>Data2/OSG/star.obj</key>
+		<data>
+		SuSm+JK5vJ/poPDCLyN9sumWZF8=
+		</data>
+		<key>Data2/OSG/star.osg</key>
+		<data>
+		rUk/elCAHKXI47jjPt0NEpz6yVw=
+		</data>
+		<key>Data2/OSG/starBurst.mtl</key>
+		<data>
+		LS/AOG2oYxYmgexPJhFSMs+Du7Q=
+		</data>
+		<key>Data2/OSG/starBurst.obj</key>
+		<data>
+		0l42hDQQ9y4As6thBw2KGRnZSJA=
+		</data>
+		<key>Data2/OSG/starBurst.osg</key>
+		<data>
+		aHFo5dTRRMnUvoWNnEBDbXxClo4=
+		</data>
+		<key>Data2/OSG/star_diffuse.png</key>
+		<data>
+		p49eNZd5jej/IB2DPqZBebLJDTw=
+		</data>
+		<key>Data2/OSG/tailFire.osg</key>
+		<data>
+		vnsco+tQX8pwaydoGuefiP3kWQw=
+		</data>
+		<key>Data2/OSG/tryEye.mtl</key>
+		<data>
+		j6QmPYehue1HyzPAqoWya/Ctvjg=
+		</data>
+		<key>Data2/OSG/tryEye.obj</key>
+		<data>
+		/Xu99Zek4J063Ji2Zx+emzI9m/c=
+		</data>
+		<key>Data2/OSG/tryEye.osg</key>
+		<data>
+		xuSS2fXashTE5JLs/qucR6/jFMM=
+		</data>
 		<key>Data2/OSG/viking-shield.obj</key>
 		<data>
 		OyLPoofaqxhPTxAmrInCreeDvpM=
+		</data>
+		<key>Data2/OSG/yellow-point.jpg</key>
+		<data>
+		q3sT+ssMERt9RP7feKmHv0IoW10=
+		</data>
+		<key>Data2/OSG/yellowStar.jpg</key>
+		<data>
+		ofXdmwOpKblSuGjkWEHGCjUVe0Y=
 		</data>
 		<key>Data2/camera_para.dat</key>
 		<data>
@@ -237,11 +353,11 @@
 		</data>
 		<key>Data2/markers.dat</key>
 		<data>
-		s5hiSFzI/EKrw6ep2m8fyl4FjwM=
+		mzbpsgLtx6fEwpBewNy3TVWEn7o=
 		</data>
 		<key>Data2/objects.dat</key>
 		<data>
-		Oogh7moo/NmozSHrjyPiA2CcJl8=
+		drkja/ydLFekSl30cBY+D45uQaM=
 		</data>
 		<key>Data2/sample1.patt</key>
 		<data>
@@ -325,7 +441,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		5YSvwW27Zqj977H9gizyrfEGaUM=
+		y56eaF+ek7D1+C7MJgL8Tcb7Paw=
 		</data>
 		<key>iTunesArtwork</key>
 		<data>
@@ -540,6 +656,39 @@
 			e9iXV2gEMhjLLZmiplWnFvgc6MG6w5HMtWJ8RoTcwHk=
 			</data>
 		</dict>
+		<key>Data2/OSG/.mayaSwatches/star_diffuse.png_hcm.swatch</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RTYkxo3mEtUYso70BVPAjLE7Shs=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+x6v62V37jqQEEQOylMV/vfQxQTtF5BOSLvJzsD9Tw=
+			</data>
+		</dict>
+		<key>Data2/OSG/.mayaSwatches/yellowStar.jpg_hcm.swatch</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FjJQXnO9T6slh7Y+LYJmEaV5vw8=
+			</data>
+			<key>hash2</key>
+			<data>
+			7DYASazemkaavov98T5upgabd0GhQQ2bKP/AYOtyQuQ=
+			</data>
+		</dict>
+		<key>Data2/OSG/14199.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pU4ZmkqeNuCSz51mW7cINOlxddc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wy8bPhL9ph2TpPeaBmUm8mvV7vdXHkaJ/aefgLVK17o=
+			</data>
+		</dict>
 		<key>Data2/OSG/Images/fireparticle8x8.png</key>
 		<dict>
 			<key>hash</key>
@@ -617,6 +766,17 @@
 			AcGiRna695uPdZavH6v2CYhhM3tbH+/fpvijVaUymTE=
 			</data>
 		</dict>
+		<key>Data2/OSG/Images/water.rgb</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jexmM/VKxjKyMbzOlUOYTFUar/c=
+			</data>
+			<key>hash2</key>
+			<data>
+			hXyKHtPSMS51QZOOuoM4Kl2uPb20zn+xZR476Imp+ks=
+			</data>
+		</dict>
 		<key>Data2/OSG/TexturesCom_MetalBare0104_1_M.jpg</key>
 		<dict>
 			<key>hash</key>
@@ -648,17 +808,6 @@
 			<key>hash2</key>
 			<data>
 			UlTI6j9sYRZYMeAiKBqvIiRwiHccoc5QeDgjlG0dUkM=
-			</data>
-		</dict>
-		<key>Data2/OSG/cow.osg</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Wm4m9jMeFRIPgPCzPJGaaZK6c3Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			F9QjYLbn+eY+U4og3gxxJ5nSPCstN4eeoXNrkqee7Sw=
 			</data>
 		</dict>
 		<key>Data2/OSG/dragon.mtl</key>
@@ -694,6 +843,116 @@
 			aCndR9DVCBBm3KJyreGUiv39Fq10yXTeHuLNV2zsDLU=
 			</data>
 		</dict>
+		<key>Data2/OSG/eye-texture.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kRqrBdT5T8EZ2Jkn8NUYMZz7K9I=
+			</data>
+			<key>hash2</key>
+			<data>
+			nTRlp1PSlsh3lEbMTK28y+SbD33KSundKuDGIrnEXfI=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeBall.fbx</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/rKchUbBvpjdgMXQHVHcip9+vu8=
+			</data>
+			<key>hash2</key>
+			<data>
+			P/L6qKoL42Jrtc9XzPX75SXdExCtynhiR/nCQNCWMps=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeBall.osg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jw1I/OTl/564PjCACiIFkyZl/5w=
+			</data>
+			<key>hash2</key>
+			<data>
+			FyRxUx3dGWtIJ2akkTZy3XxJRKxH6UfTOfgJNxJCY3k=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeGreen.obj</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TyMrjokD1b46FyS7322Fxl9A0dU=
+			</data>
+			<key>hash2</key>
+			<data>
+			9iHI7jIGkPwTxpMYBhbh7/k1iqBXalP6X/Iati7kdBc=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeUP1.mtl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j6QmPYehue1HyzPAqoWya/Ctvjg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Eu0qhbgwglY2z20bAGTuex0/kyRAi2yvxoioSwSB260=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeUP1.obj</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w/ZyAOBkBrylqA2Ui2hsPEZTFkM=
+			</data>
+			<key>hash2</key>
+			<data>
+			d3aPgNjT5HMp/0elJkTvAMb9xCsRDiLujb9qoTidjNg=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeUp.mtl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j6QmPYehue1HyzPAqoWya/Ctvjg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Eu0qhbgwglY2z20bAGTuex0/kyRAi2yvxoioSwSB260=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeUp.obj</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hMb5kTxXPFF/clhQxRChpvG5oHw=
+			</data>
+			<key>hash2</key>
+			<data>
+			NnnU0SpVkfvlkjIBazc9wwWmCUD+pwBAiX60ARMLBeU=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeUp.osg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eQLcc0JCiqkf7vel2C1v0lZbpgQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			cXjC272MEczaWd1wI5KqBQSqgUzDp46OSJnRL5s/sB8=
+			</data>
+		</dict>
+		<key>Data2/OSG/eyeUp1.osg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZXTSvaSiFBOI4und8/pLUN8ufx8=
+			</data>
+			<key>hash2</key>
+			<data>
+			s3aF0tiW62owd6wncJ6sPO8PQC0hFKGNNSQz4PHLYIo=
+			</data>
+		</dict>
 		<key>Data2/OSG/fire.osg</key>
 		<dict>
 			<key>hash</key>
@@ -703,6 +962,39 @@
 			<key>hash2</key>
 			<data>
 			XPWI8QWsXnKUXOWZNT/PaBkGphxCrFBjF4FlwyXjdbQ=
+			</data>
+		</dict>
+		<key>Data2/OSG/myShield.mtl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8uhRJvDsOqln/k4CnmjnIMqZj2Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			bhoh1dNH7BDcFP8KPcpMDQt8u+sYxXzwA3SIfVEQzMQ=
+			</data>
+		</dict>
+		<key>Data2/OSG/myShield.obj</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AeB9I8LIXlALRQqLWY3LgTjPDVc=
+			</data>
+			<key>hash2</key>
+			<data>
+			5rKNtgDOavelEqsO2iXhSrRSvOWX4MGjTwhGdKtCCPA=
+			</data>
+		</dict>
+		<key>Data2/OSG/myShield.osg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tqc9sRmDbHPUIOZ3Wq8RxOygLho=
+			</data>
+			<key>hash2</key>
+			<data>
+			TFLil/Ec3yQOq88ISQrbWZoSr1uFHjh2mZ1101uDb/Q=
 			</data>
 		</dict>
 		<key>Data2/OSG/p51d-jw-animated.osg</key>
@@ -727,15 +1019,15 @@
 			v5BKhfI/VwhecUMZOdhp7qJbIUX4twC9C835tWqwctc=
 			</data>
 		</dict>
-		<key>Data2/OSG/shield.obj</key>
+		<key>Data2/OSG/shield.osg</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mQOL68zbcxp/ybMjTIeOWJYIH3Y=
+			TNSYcxdW9L+KRwwDGapaJQ3KTPc=
 			</data>
 			<key>hash2</key>
 			<data>
-			VM/6PPkRYnWMoPvyqt/KVTn4kS+qHostDCWNjVFQ2XU=
+			2Cp3/JoTgos1ngA6dkFrfDj6pikkmVX4p3THoXsutK8=
 			</data>
 		</dict>
 		<key>Data2/OSG/spyro.osg</key>
@@ -749,6 +1041,127 @@
 			k90rzlOuqwAcgX25WPLJkfWk9o70t60W7m77Z/ehXTk=
 			</data>
 		</dict>
+		<key>Data2/OSG/star.mtl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5XKqrkrmMJMF1LdXKed9f6VZH6A=
+			</data>
+			<key>hash2</key>
+			<data>
+			is3QR+XodGXVNkg1iDq83+tRkIg/ua7Yly3O03hVgdE=
+			</data>
+		</dict>
+		<key>Data2/OSG/star.obj</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SuSm+JK5vJ/poPDCLyN9sumWZF8=
+			</data>
+			<key>hash2</key>
+			<data>
+			/Y9/ZD1OhEZ9Rt/o8StIgfqymdkM3NQUJ0Vll/y2Slc=
+			</data>
+		</dict>
+		<key>Data2/OSG/star.osg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rUk/elCAHKXI47jjPt0NEpz6yVw=
+			</data>
+			<key>hash2</key>
+			<data>
+			79Eh3ekoIqMDb6mLuJDuncJ+C4DwIsZlRbCgqlC2hFo=
+			</data>
+		</dict>
+		<key>Data2/OSG/starBurst.mtl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LS/AOG2oYxYmgexPJhFSMs+Du7Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			jBuB/dDlSsFdpNctCCHZ95jIZEzQQl4GLQTTrfn4dFo=
+			</data>
+		</dict>
+		<key>Data2/OSG/starBurst.obj</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0l42hDQQ9y4As6thBw2KGRnZSJA=
+			</data>
+			<key>hash2</key>
+			<data>
+			SS/KzrnK8BTJaM0oDLG+RAL8HCRJ8ZXXRB+ybUtXYVg=
+			</data>
+		</dict>
+		<key>Data2/OSG/starBurst.osg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aHFo5dTRRMnUvoWNnEBDbXxClo4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZsmtRSTvG+yHVytqazVEFYCQLasiCK+rnkpjajrrJhQ=
+			</data>
+		</dict>
+		<key>Data2/OSG/star_diffuse.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p49eNZd5jej/IB2DPqZBebLJDTw=
+			</data>
+			<key>hash2</key>
+			<data>
+			K2dkR3k1quKQg+I0atHW/N0NFS+b2/pgWNJBW4Kmn80=
+			</data>
+		</dict>
+		<key>Data2/OSG/tailFire.osg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vnsco+tQX8pwaydoGuefiP3kWQw=
+			</data>
+			<key>hash2</key>
+			<data>
+			4VN78XZbzDLdqM592ZjnTLi+VikrwyjGxyKTuVJrVAo=
+			</data>
+		</dict>
+		<key>Data2/OSG/tryEye.mtl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j6QmPYehue1HyzPAqoWya/Ctvjg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Eu0qhbgwglY2z20bAGTuex0/kyRAi2yvxoioSwSB260=
+			</data>
+		</dict>
+		<key>Data2/OSG/tryEye.obj</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Xu99Zek4J063Ji2Zx+emzI9m/c=
+			</data>
+			<key>hash2</key>
+			<data>
+			ElIIpLMQkPxybXzRAm94v9o0jZOySXrR528v08yG06E=
+			</data>
+		</dict>
+		<key>Data2/OSG/tryEye.osg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xuSS2fXashTE5JLs/qucR6/jFMM=
+			</data>
+			<key>hash2</key>
+			<data>
+			mvyW2Q+SK2Hpl7I/fM4QFsVH/UUQ6LP2U8QoOuCVHBI=
+			</data>
+		</dict>
 		<key>Data2/OSG/viking-shield.obj</key>
 		<dict>
 			<key>hash</key>
@@ -758,6 +1171,28 @@
 			<key>hash2</key>
 			<data>
 			r6Odf7Qronzz7wDxOyPH/RDOF4WwoBcdUBMQkPv7is0=
+			</data>
+		</dict>
+		<key>Data2/OSG/yellow-point.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q3sT+ssMERt9RP7feKmHv0IoW10=
+			</data>
+			<key>hash2</key>
+			<data>
+			vu2Jgy69HlGhn7u7D2i58TaI59ydRDzioaZO+ipaIT4=
+			</data>
+		</dict>
+		<key>Data2/OSG/yellowStar.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ofXdmwOpKblSuGjkWEHGCjUVe0Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			WUAUXODC/NYLFWMEZK9Cd2/1PtJWOXryps7rcCPNYPc=
 			</data>
 		</dict>
 		<key>Data2/camera_para.dat</key>
@@ -797,22 +1232,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s5hiSFzI/EKrw6ep2m8fyl4FjwM=
+			mzbpsgLtx6fEwpBewNy3TVWEn7o=
 			</data>
 			<key>hash2</key>
 			<data>
-			GDOr8W3XJMAXwVGxH+uEzqwcuZwGPePXOk2WT1Baa8I=
+			xalc4KGWjhL/LQKAKEqG8SbfJUvQS/gZBTykQ3K8pIE=
 			</data>
 		</dict>
 		<key>Data2/objects.dat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Oogh7moo/NmozSHrjyPiA2CcJl8=
+			drkja/ydLFekSl30cBY+D45uQaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7HmfrgbH6Ii00fkt7X5Aj+hyZvq0Kpl6fqCi8aSHx6w=
+			Edp+3IwojcZYOUyOEeW0INHRTiW915tV3EUGZ4ShBYA=
 			</data>
 		</dict>
 		<key>Data2/sample1.patt</key>
@@ -1017,11 +1452,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5YSvwW27Zqj977H9gizyrfEGaUM=
+			y56eaF+ek7D1+C7MJgL8Tcb7Paw=
 			</data>
 			<key>hash2</key>
 			<data>
-			f6h1FHdO93Ugg8AeGY972WnK+D0oNrETzTRsajKfU/U=
+			aZgwQnFC+IrZNZU8pAhZ5gJiFIP1OVOXL6DY25lIkQM=
 			</data>
 		</dict>
 		<key>iTunesArtwork</key>
